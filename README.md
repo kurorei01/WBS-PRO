@@ -48,99 +48,96 @@ python Gen-Z.py
 ```
 ---
 
-## ☠️ CYBER MANIFESTO
-<p align="center">
-  <b>
-    We do not deface.<br>
-    We do not destroy.<br>
-    We <u>see</u> what others fail to notice.
-  </b>
-</p>
+## ☠️ OPERATIONAL MANIFESTO
+We do not seek attention.  
+We do not chase fame.  
+We operate with **discipline, restraint, and intent**.
 
-<p align="center">
-  🧠 Intelligence over noise<br>
-  🔐 Ethics over ego<br>
-  ☠️ Silence over chaos
-</p>
+Every scan has a purpose.  
+Every finding has responsibility.  
+Every action leaves a trace — unless done right.
+
 ---
 
-## 👁️ SHADOW PROTOCOL
-<p align="center">
-  • No brute force<br>
-  • No payload<br>
-  • No footprint<br>
-  <br>
-  Only <b>passive observation</b> and <b>cold analysis</b>.
-</p>
+## 👁️ PASSIVE-FIRST DOCTRINE
+This tool follows one absolute rule:
 
-<p align="center">
-  <i>
-    If the system never noticed us,<br>
-    we did it right.
-  </i>
-</p>
+**If detection happens, failure already occurred.**
 
+- No exploitation  
+- No payload delivery  
+- No service disruption  
+- No alert noise  
 
-## 🩸 ITACHI DOCTRINE
-<p align="center">
-  <b style="color:#8a2be2;">
-    "True power does not announce itself."
-  </b>
-</p>
+Only **silent intelligence gathering**  
+and **context-aware security analysis**.
 
-<p align="center">
-  We operate in the shadows,<br>
-  not for chaos — but for balance.
-</p>
+---
 
+## 🩸 SHADOW PRINCIPLES
+- Silence is a skill  
+- Patience is a weapon  
+- Ethics is non-negotiable  
 
-## ⚠️ ABSOLUTE WARNING
-<p align="center">
-  ❌ Illegal usage will destroy your reputation.<br>
-  ❌ Abuse will end careers.<br>
-  ❌ Ego is the biggest vulnerability.
-</p>
+Power without control  
+is just another liability.
 
-<p align="center">
-  ✅ Authorized testing only<br>
-  ✅ Ethical disclosure only
-</p>
+---
 
+## ⚠️ ZERO-TOLERANCE POLICY
+Unauthorized usage is not “testing”.  
+It is **professional suicide**.
 
-## 🧬 GEN Z CYBER ELITE
-<p align="center">
-  Not script kiddies.<br>
-  Not clout chasers.<br>
-  <b>Professionals.</b>
-</p>
+- ❌ No illegal targeting  
+- ❌ No ego-driven actions  
+- ❌ No irresponsible disclosure  
 
-<p align="center">
-  🟣 Silent • Precise • Untraceable
-</p>
+- ✅ Written authorization only  
+- ✅ Ethical reporting  
+- ✅ Professional conduct  
 
+There are no excuses in this field.
 
-## 👤 AUTHOR
-<p align="center">
-  <b>Muhamad Fatir</b><br>
-  Siber Gen Z • 2025
-</p>
+---
 
-<p align="center">
-  <i>
-    "We scan quietly,<br>
-    so breaches never scream."
-  </i>
-</p>
+## 🧬 GEN Z CYBER ELITE — DEFINITION
+Not beginners.  
+Not copy-paste operators.  
+Not clout hunters.
 
+We value:
+- Accuracy over speed  
+- Understanding over tools  
+- Reputation over shortcuts  
 
-## 📜 LICENSE
-<p align="center">
-  Released under the <a href="LICENSE"><b>MIT License</b></a><br>
-  © 2025 
-</p>
+Skill earns access.  
+Ethics earns trust.
 
+---
 
+## 👤 OPERATOR  
+Siber Gen Z • 2025  
 
+> We don’t break systems.  
+> We prevent them from breaking.
+
+---
+
+## 📜 LICENSE & LEGAL
+MIT License  
+
+You are free to:
+- Use  
+- Modify  
+- Distribute  
+
+You are **not free** to:
+- Misuse  
+- Abuse  
+- Violate the law  
+
+© 2025 Siber Gen Z 
+All responsibility lies with the operator.
 
 
 
