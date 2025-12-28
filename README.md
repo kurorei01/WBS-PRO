@@ -46,6 +46,105 @@ git clone https://github.com/kurorei01/WBS-PRO.git
 pip install -r requirements.txt
 python Gen-Z.py
 
+---
+
+## ☠️ CYBER MANIFESTO
+<p align="center">
+  <b>
+    We do not deface.<br>
+    We do not destroy.<br>
+    We <u>see</u> what others fail to notice.
+  </b>
+</p>
+
+<p align="center">
+  🧠 Intelligence over noise<br>
+  🔐 Ethics over ego<br>
+  ☠️ Silence over chaos
+</p>
+
+---
+
+## 👁️ SHADOW PROTOCOL
+<p align="center">
+  • No brute force<br>
+  • No payload<br>
+  • No footprint<br>
+  <br>
+  Only <b>passive observation</b> and <b>cold analysis</b>.
+</p>
+
+<p align="center">
+  <i>
+    If the system never noticed us,<br>
+    we did it right.
+  </i>
+</p>
+
+---
+
+## 🩸 ITACHI DOCTRINE
+<p align="center">
+  <b style="color:#8a2be2;">
+    "True power does not announce itself."
+  </b>
+</p>
+
+<p align="center">
+  We operate in the shadows,<br>
+  not for chaos — but for balance.
+</p>
+
+---
+
+## ⚠️ ABSOLUTE WARNING
+<p align="center">
+  ❌ Illegal usage will destroy your reputation.<br>
+  ❌ Abuse will end careers.<br>
+  ❌ Ego is the biggest vulnerability.
+</p>
+
+<p align="center">
+  ✅ Authorized testing only<br>
+  ✅ Ethical disclosure only
+</p>
+
+---
+
+## 🧬 GEN Z CYBER ELITE
+<p align="center">
+  Not script kiddies.<br>
+  Not clout chasers.<br>
+  <b>Professionals.</b>
+</p>
+
+<p align="center">
+  🟣 Silent • Precise • Untraceable
+</p>
+
+---
+
+## 👤 AUTHOR
+<p align="center">
+  <b>Muhamad Fatir</b><br>
+  Siber Gen Z • 2025
+</p>
+
+<p align="center">
+  <i>
+    "We scan quietly,<br>
+    so breaches never scream."
+  </i>
+</p>
+
+---
+
+## 📜 LICENSE
+<p align="center">
+  Released under the <a href="LICENSE"><b>MIT License</b></a><br>
+  © 2025 
+</p>
+
 
 
 
