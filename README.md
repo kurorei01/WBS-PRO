@@ -44,7 +44,7 @@ Hanya **observasi cerdas + analisis mendalam**.
 ```bash
 git clone https://github.com/kurorei01/WBS-PRO.git
 pip install -r requirements.txt
-python Gen-Z.py
+python GENZ.py
 ```
 ---
 
@@ -138,6 +138,7 @@ You are permitted to:
 With **full responsibility on the operator**.
 
 © 2025 Siber Gen Z
+
 
 
 
