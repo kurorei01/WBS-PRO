@@ -46,6 +46,7 @@ git clone https://github.com/kurorei01/WBS-PRO.git
 pip install -r requirements.txt
 python Gen-Z.py
 ```
+---
 
 ## ☠️ CYBER MANIFESTO
 <p align="center">
@@ -61,7 +62,7 @@ python Gen-Z.py
   🔐 Ethics over ego<br>
   ☠️ Silence over chaos
 </p>
-
+---
 
 ## 👁️ SHADOW PROTOCOL
 <p align="center">
@@ -137,6 +138,7 @@ python Gen-Z.py
   Released under the <a href="LICENSE"><b>MIT License</b></a><br>
   © 2025 
 </p>
+
 
 
 
