@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="http://images4.fanpop.com/image/photos/22500000/Itachi-Uchiha-itachi-uchiha-22583566-1024-768.jpg" alt="Gen-Z Passive Scanner Banner" width="100%">
+  <img src="![Uploading image.png…]()
+" alt="Gen-Z Passive Scanner Banner" width="100%">
 </p>
 
 <h1 align="center">⚡ GEN-Z PASSIVE SCANNER 2025</h1>
@@ -45,4 +46,5 @@ Hanya **observasi cerdas + analisis mendalam**.
 git clone https://github.com/kurorei01/WBS-PRO.git
 pip install -r requirements.txt
 python Gen-Z.py
+
 
