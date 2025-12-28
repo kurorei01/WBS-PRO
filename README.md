@@ -123,22 +123,21 @@ Siber Gen Z • 2025
 
 ---
 
-## 📜 LICENSE & LEGAL
-MIT License  
+## 📜 LICENSE
 
-You are free to:
-- Use  
-- Modify  
-- Distribute  
+<img src="https://img.shields.io/badge/License-MIT-purple" />
 
-You are **not free** to:
-- Misuse  
-- Abuse  
-- Violate the law  
+This project is released under the **MIT License**.
 
-© 2025 Siber Gen Z 
-All responsibility lies with the operator.
+You are permitted to:
+- ✔ Use
+- ✔ Merge
+- ✔ Publish
+- ✔ Distribute
 
+With **full responsibility on the operator**.
+
+© 2025 Siber Gen Z
 
 
 
