@@ -45,8 +45,7 @@ Hanya **observasi cerdas + analisis mendalam**.
 git clone https://github.com/kurorei01/WBS-PRO.git
 pip install -r requirements.txt
 python Gen-Z.py
-
----
+```
 
 ## ☠️ CYBER MANIFESTO
 <p align="center">
@@ -63,7 +62,6 @@ python Gen-Z.py
   ☠️ Silence over chaos
 </p>
 
----
 
 ## 👁️ SHADOW PROTOCOL
 <p align="center">
@@ -81,7 +79,6 @@ python Gen-Z.py
   </i>
 </p>
 
----
 
 ## 🩸 ITACHI DOCTRINE
 <p align="center">
@@ -95,7 +92,6 @@ python Gen-Z.py
   not for chaos — but for balance.
 </p>
 
----
 
 ## ⚠️ ABSOLUTE WARNING
 <p align="center">
@@ -109,7 +105,6 @@ python Gen-Z.py
   ✅ Ethical disclosure only
 </p>
 
----
 
 ## 🧬 GEN Z CYBER ELITE
 <p align="center">
@@ -122,7 +117,6 @@ python Gen-Z.py
   🟣 Silent • Precise • Untraceable
 </p>
 
----
 
 ## 👤 AUTHOR
 <p align="center">
@@ -137,13 +131,13 @@ python Gen-Z.py
   </i>
 </p>
 
----
 
 ## 📜 LICENSE
 <p align="center">
   Released under the <a href="LICENSE"><b>MIT License</b></a><br>
   © 2025 
 </p>
+
 
 
 
