@@ -2,7 +2,7 @@
   <img src="http://images4.fanpop.com/image/photos/22500000/Itachi-Uchiha-itachi-uchiha-22583566-1024-768.jpg" alt="Gen-Z Passive Scanner Banner" width="100%">
 </p>
 
-<h1 align="center">⚡ GEN-Z PASSIVE SCANNER 2025</h1>
+<h1 align="center">⚡ WBS-PRO PASSIVE SCANNER BY SIBER GEN Z 2025</h1>
 
 <p align="center">
   <b>Neon Vibe • Zero Payload • Full HTML Report</b><br>
@@ -19,7 +19,7 @@
 ---
 
 ## 🌌 Tentang Project
-**GEN-Z Passive Scanner** adalah *next-generation passive security scanner*  
+**WBS-PRO Passive Scanner** adalah *next-generation passive security scanner*  
 yang dirancang untuk **analisis keamanan tanpa eksploitasi**.
 
 🔒 Tidak ada injection  
@@ -45,6 +45,7 @@ Hanya **observasi cerdas + analisis mendalam**.
 git clone https://github.com/kurorei01/WBS-PRO.git
 pip install -r requirements.txt
 python Gen-Z.py
+
 
 
 
