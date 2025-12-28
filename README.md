@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="![Uploading image.png…] "()
+  <img src=![Uploading Screenshot 2025-12-28 013718.png…]()
+()
 " alt="Gen-Z Passive Scanner Banner" width="100%">
 </p>
 
@@ -46,6 +47,7 @@ Hanya **observasi cerdas + analisis mendalam**.
 git clone https://github.com/kurorei01/WBS-PRO.git
 pip install -r requirements.txt
 python Gen-Z.py
+
 
 
 
